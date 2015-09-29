@@ -8,7 +8,7 @@ public class RunneableClass implements Runnable {
     int counter=0;
 
 
-    public void run(){
+    public void run(){ //Metodo run siempre!!!!!!!
         for (int i=0;i<10;i++) {
             long currentExecution = System.currentTimeMillis(); //Calcula donde se esta ejecutando
             long transcurrido = (lastexecution==0)?0:currentExecution-lastexecution;

@@ -8,6 +8,13 @@
   <modules>
     <module>Constructors</module>
     <module>Interfaces</module>
+    <module>Concurrencia-threads</module>
+    <module>Concurrencia-Sincronismo</module>
+    <module>xat</module>
+    <module>TCP_noConcurrente</module>
+    <module>UDP_noConcurrente</module>
+    <module>excepciones1</module>
+    <module>excepciones2</module>
   </modules>
   <packaging>pom</packaging>
 
